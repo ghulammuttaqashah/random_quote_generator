@@ -1,0 +1,12 @@
+{
+    "manifest_version" : 3,
+    "name" : "Random Qoute Generator",
+    "version" : "1.0",
+    "description" : "Get started with Google Chrome Extension",
+    "icons" : {
+
+    },
+    "action" : {
+        "default_popup" : "popup.html"
+    }
+}
